@@ -20,8 +20,8 @@ author_image: "/assets/images/avatar.png"
 
 paginate:	5
 
-url: "https://wingsfan70.github.io/" # the base hostname & protocol for your site
-baseurl: "/blog/"
+url: "https://wingsfan70.github.io/blog/" # the base hostname & protocol for your site
+baseurl: ""
 #used to display twitter cards
 twitter_handle: '@wingsfan70'
 
