@@ -2,7 +2,7 @@
 layout: post
 title: "The Blog Project"
 date: 2016-08-04 10:18:00
-categories: projects
+categories: blog
 tags: projects blog featured
 image: /assets/article_images/blog_project/9yqbfh7pyq.jpg
 image2:
