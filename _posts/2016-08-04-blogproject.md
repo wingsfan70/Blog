@@ -4,7 +4,7 @@ title: "The Blog Project"
 date: 2016-08-04 10:18:00
 categories: blog
 tags: projects blog featured
-image: /assets/article_images/blog_project/9yqbfh7pyq.jpg
+image: /assets/article_images/blog_project/blog_proj1.jpg
 image2:
 ---
 
