@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-##Hello
+## Hello
 I'm Gary Caseman, and I am a designer and developer. I live in sunny southwest Florida. <br> When I am not programming I hone my skills in photography and cooking.
 
 ---
