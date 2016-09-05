@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f2e9ff1-c49e-476c-815e-d200f487d7bf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-08-02-photo.md" afterPath="$PROJECT_DIR$/_posts/2016-08-02-photo.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-08-03-thanks.md" afterPath="$PROJECT_DIR$/_posts/2016-08-03-thanks.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-08-04-Scary.md" afterPath="$PROJECT_DIR$/_posts/2016-08-04-Scary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-08-04-blogproject.md" afterPath="$PROJECT_DIR$/_posts/2016-08-04-blogproject.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/index.js" afterPath="$PROJECT_DIR$/assets/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.sass" afterPath="$PROJECT_DIR$/css/main.sass" />
-    </list>
+    <list default="true" id="8f2e9ff1-c49e-476c-815e-d200f487d7bf" name="Default" comment="" />
     <ignored path="Blog.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
