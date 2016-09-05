@@ -17,7 +17,7 @@
           </div>
           <div class="post-meta">
             <h1 class="post-title">{{ page.title }}</h1>
-            <div class="cf post-meta-text">
+            <div class="cf post-meta-text" style="color: {{page.fontcolor}}">
               <div class="author-image" style="background-image: url({{site.baseurl}}/{{ site.author_image }})">Blog Logo</div>
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
               on
@@ -47,7 +47,7 @@
         <br>
         {% endif %}
         <section class="post-content">
-          <div class="post-reading">
+          <div class="post-reading" style="color: {{page.readcolor}}">
             <span class="post-reading-time"></span> read
           </div>
           <a name="topofpage"></a>

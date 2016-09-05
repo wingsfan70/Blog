@@ -26,4 +26,14 @@
         
     });
 
+    // Changing the class to change the font color and background color if the background image is dark
+    // functions checks URL to see if it equals photography which has a dark cover image.
+    // TODO: make the function work based on the picture uploaded and not by the actual page name in the URL
+    $document.ready(function () {
+        var url = window.location.href;
+        if(url.search("photography") >= 0) {
+            $(".inner").addClass("dark");
+        }
+    });
+
 }(jQuery));

@@ -6,6 +6,8 @@ categories: blog
 tags: projects blog featured
 image: /assets/article_images/blog_project/blog_proj1.jpg
 image2:
+fontcolor: "#333333"
+readcolor: "#333333"
 ---
 
 I created this blog using [Jekyll](https://jekyllrb.com/). I used a theme from [JekyllThemes.io](https://jekyllthemes.io) desgined by Dirk Fabisch. 
