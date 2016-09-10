@@ -22,6 +22,7 @@ _site/
 
 # User-specific stuff:
 .idea/workspace.xml
+.idea/workspace1.xml
 .idea/tasks.xml
 .idea/dictionaries
 .idea/vcs.xml
