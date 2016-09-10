@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+image: /assets/images/Ty-With-smile-face.jpg
 permalink: /about/
 ---
 
