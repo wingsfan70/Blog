@@ -5,7 +5,7 @@ date: 2016-08-04 10:18:00
 categories: blog
 tags: projects blog featured
 image: /assets/article_images/blog_project/blog_proj1.jpg
-image2:
+image2: /assets/article_images/blog_project/blog_proj1-mobile.jpg
 fontcolor: "#333333"
 readcolor: "#333333"
 ---
