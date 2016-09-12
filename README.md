@@ -26,7 +26,6 @@ Main settings for the site
 * **description**: description of your site
 * **logo**: small logo for the site (300x * 300x)
 * **cover**: large background image on the index page
-
 * **name**: name site owner
 * **email**: mail address of the site owner
 * **author**: author name
@@ -51,13 +50,40 @@ The Liquid template engine will magical combine the different parts to a share u
 http://twitter.com/share?text=post_title&amp;url=post_url
 ````
 
-See [_config.yml](https://github.com/dirkfabisch/mediator/blob/master/_config.yml) for more examples.
+See [_config.yml](https://github.com/wingsfan70/Blog/blob/master/_config.yml) for more examples.
+
+Front Matter
+-----
+
+This template uses the the following items in the front matter for each post. Some of the items are the standard items in 
+a typical Jekyll post like:
+
+* **layout**: post
+* **title**: "The Blog Project"
+* **date**: 2016-08-04 10:18:00
+* **categories**: blog
+* **tags**: projects blog featured
+
+The following items are more specific.
+
+Each post can have an image for the top of the post. If left blank there will just be a black background
+
+* **image**: /assets/article_images/blog_project/blog_proj1.jpg (image for screens > 800px)
+* **image2**: /assets/article_images/blog_project/blog_proj1-mobile.jpg (image for screens < 800px)
+
+On each post you can control the color on the font of the title and the color of the font for the read time.
+This template uses a javascript library [readingTime.js](http://michaelynch.com) to determine the estimated time to read the post. 
+The read time and post title are displayed on the image so I created these items in the front matter to allow
+the author to adjust the font colors based on the background color
+
+* **fontcolor**: "#333333" (Determines the color of the Title font for the post)
+* **readcolor**: "#333333" (Determines the read time font color for the post)
 
 Licensing
 ---------
 
-[MIT](https://github.com/dirkfabisch/mediator/blob/master/LICENCE) with no added caveats, so feel free to use this on your site without linking back to me or using a disclaimer or anything silly like that.
+[MIT](https://github.com/wingsfan70/Blog/blob/master/LICENCE) with no added caveats, so feel free to use this on your site without linking back to me or using a disclaimer or anything silly like that.
 
 Contact
 -------
-I'd love to hear from you at [@dirkfabisch](https://twitter.com/dirkfabisch). Feel free to open issues if you run into trouble or have suggestions. Pull Requests always welcome.
+I'd love to hear from you at [@wingsfan70](https://twitter.com/wingsfan70). Feel free to open issues if you run into trouble or have suggestions. Pull Requests always welcome.
