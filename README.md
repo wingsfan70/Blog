@@ -71,12 +71,12 @@ Each post can have an image for the top of the post. If left blank there will ju
 * **image**: /assets/article_images/blog_project/blog_proj1.jpg (image for screens > 800px)
 * **image2**: /assets/article_images/blog_project/blog_proj1-mobile.jpg (image for screens < 800px)
 
-On each post you can control the color on the font of the title and the color of the font for the read time.
+On each post you can control the color of the font of the title and the color of the font for the read time.
 This template uses a javascript library [readingTime.js](http://michaelynch.com) to determine the estimated time to read the post. 
 The read time and post title are displayed on the image so I created these items in the front matter to allow
-the author to adjust the font colors based on the background color
+the author to adjust the font colors based on the background image
 
-* **fontcolor**: "#333333" (Determines the color of the Title font for the post)
+* **fontcolor**: "#333333" (Determines the Title font color for the post)
 * **readcolor**: "#333333" (Determines the read time font color for the post)
 
 Licensing
